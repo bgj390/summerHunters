@@ -1,3 +1,9 @@
+# This is the 2nd stage applying for the Hoxhunt Summer Hunters (Frontend)
+
+This was the very first time for me using Typescript and Styled Components, but I think I managed to make quite readable yet simple hero cards. For all heroes I returned name and description, image, attributes and backstory. Also I switched the flex-direction to column at HeroIndex view, because in my opinion the site would be more readable that way.
+
+See the original description for this assignment below:
+
 # Home assignment
 
 For this assignment we have created a GraphQL API and a simple React application that queries infromation from that API. It is your job to finalize this application, either from frontend or backend side. More information of these tracks down below in Tracks section.
